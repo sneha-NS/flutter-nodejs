@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "street": "14, Linking Road, Bandra West",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400050",
+    "lat": 19.0596,
+    "lng": 72.8295
+  },
+  {
+    "id": 2,
+    "name": "Priya Nair",
+    "street": "Block C, Connaught Place",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": "110001",
+    "lat": 28.6315,
+    "lng": 77.2167
+  },
+  {
+    "id": 3,
+    "name": "Arjun Menon",
+    "street": "80 Feet Road, Koramangala 4th Block",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560034",
+    "lat": 12.9352,
+    "lng": 77.6245
+  },
+  {
+    "id": 4,
+    "name": "Meenakshi Iyer",
+    "street": "23, Usman Road, T. Nagar",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600017",
+    "lat": 13.0418,
+    "lng": 80.2341
+  },
+  {
+    "id": 5,
+    "name": "Sourav Ghosh",
+    "street": "5, Park Street",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700016",
+    "lat": 22.5513,
+    "lng": 88.3527
+  },
+  {
+    "id": 6,
+    "name": "Lakshmi Reddy",
+    "street": "Road No. 12, Banjara Hills",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500034",
+    "lat": 17.4126,
+    "lng": 78.4482
+  },
+  {
+    "id": 7,
+    "name": "Vikram Joshi",
+    "street": "Lane 5, Koregaon Park",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "lat": 18.5362,
+    "lng": 73.8938
+  },
+  {
+    "id": 8,
+    "name": "Anita Patel",
+    "street": "Navrangpura, CG Road",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": "380009",
+    "lat": 23.0395,
+    "lng": 72.5684
+  },
+  {
+    "id": 9,
+    "name": "Rajesh Singhvi",
+    "street": "C-Scheme, Malviya Nagar",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "pincode": "302017",
+    "lat": 26.8634,
+    "lng": 75.8133
+  },
+  {
+    "id": 10,
+    "name": "Divya Thomas",
+    "street": "Marine Drive, Ernakulam",
+    "city": "Kochi",
+    "state": "Kerala",
+    "pincode": "682031",
+    "lat": 9.9673,
+    "lng": 76.2802
+  },
+  {
+    "id": 11,
+    "name": "Kiran Desai",
+    "street": "Adajan Patia, Ring Road",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": "395009",
+    "lat": 21.2138,
+    "lng": 72.8154
+  },
+  {
+    "id": 12,
+    "name": "Pooja Verma",
+    "street": "Hazratganj, MG Road",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "pincode": "226001",
+    "lat": 26.8467,
+    "lng": 80.9462
+  },
+  {
+    "id": 13,
+    "name": "Harpreet Singh",
+    "street": "Sector 17, Plaza",
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "pincode": "160017",
+    "lat": 30.7416,
+    "lng": 76.7790
+  },
+  {
+    "id": 14,
+    "name": "Neha Kulkarni",
+    "street": "Vijay Nagar Square, AB Road",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "lat": 22.7533,
+    "lng": 75.8937
+  },
+  {
+    "id": 15,
+    "name": "Aditya Bhosle",
+    "street": "Dharampeth, Wardha Road",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "pincode": "440010",
+    "lat": 21.1458,
+    "lng": 79.0882
+  }
+]
