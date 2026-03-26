@@ -1,0 +1,19 @@
+# Express.js Task 7 Server
+
+A professional Node.js server boilerplate featuring robust error handling and environment configuration.
+
+## Features
+- **CORS Enabled**: Supports cross-origin requests.
+- **Health Monitoring**: `/health` endpoint for uptime checks.
+- **Safe Config**: Uses `dotenv` for environment variables.
+- **Error Middleware**: Handles 404s and global server errors gracefully.
+
+## Proof of Implementation
+### 1. Success Path (/health)
+![Health Check Screenshot](assets/s1.png)
+
+*Shows a 200 OK status with a valid JSON timestamp.*
+
+### 2. Error Path (404 Handling)
+![404 Screenshot](assets/s2.png)
+*Shows how the server catches undefined routes without crashing.*
